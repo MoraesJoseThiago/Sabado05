@@ -1,0 +1,1 @@
+#19- Crie uma função que receba uma lista e retorne a soma dos elementos.

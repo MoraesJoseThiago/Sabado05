@@ -1,0 +1,1 @@
+#21- Faça um jogo de adivinhação onde o programa escolhe um número de 1 a 10 e o usuário tenta adivinhar.

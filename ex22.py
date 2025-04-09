@@ -1,0 +1,1 @@
+#Simule um caixa eletrônico: peça um valor e informe quantas notas de 100, 50, 20, 10 e 1 são necessárias.

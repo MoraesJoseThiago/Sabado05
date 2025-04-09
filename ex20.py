@@ -1,0 +1,1 @@
+#20- Peça ao usuário para digitar nomes e idades, armazene num dicionário e depois mostre as pessoas maiores de idade.
